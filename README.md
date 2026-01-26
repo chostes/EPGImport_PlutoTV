@@ -1,4 +1,7 @@
 # EPGImport-PlutoTV
+Actualización 26/01/2026
+Añadidos todos los canales con codigos originales de PlutoTV
+
 Actualización 04/09/2022 
 Añadido Sensación de Vivir (90210) y Pelis Retro
 
