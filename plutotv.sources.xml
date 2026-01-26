@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <sources>
-<sourcecat sourcecatname="Pluto TV">
+<!--
+10/01/2026
+Este archivo se guarda en /etc/epgimport
+Esta configuración coloca un source dentro del plugin EPG-Importer
+El source se llama igual que el campo sourcecatname
+El icono que se puede marcar se llama igual que el campo description
+-->
+<sourcecat sourcecatname="PlutoTV">
 	<source type="gen_xmltv" nocheck="1" channels="plutotv.channels.xml">
-		<description>Pluto TV</description>
+		<description>PlutoTV</description>
 		<!-- <url><![CDATA[https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz]]></url> -->
-		<url><![CDATA[https://i.mjh.nz/PlutoTV/es.xml.gz]]></url>
+		<url>https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/es.xml.gz</url>
 	</source>
 </sourcecat>
 </sources>
