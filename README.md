@@ -1,4 +1,5 @@
-EPGImport-PlutoTV<br>
+<b>EPGimport_PlutoTV</b>
+
 Ficheros para descargar el EPG de los canales de PlutoTV<br>
 Incluir los ficheros plutotv.channels y plutotv.sources en la carpeta /etc/epgimport del decodificador enigma2<br>
 Posteriormente realizar la actualización del EGP desde la extensión EPG-Importer<br>
